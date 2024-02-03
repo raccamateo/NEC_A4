@@ -1,0 +1,5 @@
+Params: (50, 10, 0.01, 1), Best Route: [ 3 10 14  5 11  9  7 12 15  6 16  1  8 13  4  2  3], Total Distance: 8894
+Params: (100, 20, 0.01, 2), Best Route: [16  9 10 12 13  7 14 15  5 11  6  8  1  4  2  3 16], Total Distance: 8019
+Params: (200, 60, 0.01, 5), Best Route: [ 5 11  9 10 12  1  8  2  3  4 16 14 13  7  6 15  5], Total Distance: 7286
+Params: (200, 100, 0.005, 5), Best Route: [ 8  4  2  3 16  7 10  9 11  5 15  6 14 13 12  1  8], Total Distance: 7098
+Params: (600, 250, 0.0001, 35), Best Route: [16  3  2  4  8  1 12  7  6 10  9 11  5 15 14 13 16], Total Distance: 6895
